@@ -1,0 +1,45 @@
+.div-1{
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+}
+
+.blox-1{
+    justify-content: space-between;
+    display: flex;
+    align-items: left;
+}
+
+.blox-2{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.blox-3{
+    justify-content: space-between;
+    display: flex;
+    align-items: end;
+}
+
+.div-2{
+    background-color: pink;
+    justify-content: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.blox-4{
+    justify-content: center;
+    align-items: center;
+}
+
+.blox-6{
+    align-items: center;
+}
+
+.div-3{
+    background-color: white;
+    justify-content: space-between;
+    display: flex; 
+}
